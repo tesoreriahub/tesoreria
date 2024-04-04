@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://github.com/tesoreriahub/tesoreria/blob/main/fondo.jpeg#:~:text=files-,fondo,-.jpeg");
+    background-image: url('../tesoreria/fondo.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
